@@ -3,7 +3,10 @@ Portafolio que contiene los distintos proyectos realizados en el bootcamp de Dat
 
 
 ## Sprint 1: Python Básico I
-
+Aprendimos los fundamentos de Python tales como:
+  - Tipos de datos
+  - Listas
+  - Listas anidadas
 
 ## Sprint 2: Python Básico II
 
