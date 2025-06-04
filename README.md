@@ -9,7 +9,10 @@ Aprendimos los fundamentos de Python tales como:
   - Listas anidadas
 
 ## Sprint 2: Python Básico II
-
+Aprendimos sobre:
+ - Bucles
+ - Condicionales if/else/elif
+ - Try/Except
 
 ## Sprint 3: Data Wrangling I
 
