@@ -1,2 +1,20 @@
 # TT_portfolio_C45
 Portafolio que contiene los distintos proyectos realizados en el bootcamp de Data Analyst de TripleTen LATAM
+
+
+## Sprint 1: Python Básico I
+
+
+## Sprint 2: Python Básico II
+
+
+## Sprint 3: Data Wrangling I
+
+
+## Sprint 4: Data Wrangling II
+
+
+## Sprint 5: Analisis Estadistico de Datos
+
+
+## Sprint 6: Proyecto de Cierre de Modulo
